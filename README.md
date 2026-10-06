@@ -1,6 +1,6 @@
 # HKTK OAuth SDK for macOS
 
-SDK OAuth native cho game macOS và Cocos, phát hành dưới dạng C/C++ universal library. Phiên bản hiện tại là `1.3.11`.
+SDK OAuth native cho game macOS và Cocos, phát hành dưới dạng C/C++ universal library. Phiên bản hiện tại là `1.3.12`.
 
 ## Yêu cầu
 
@@ -46,12 +46,12 @@ SDK mở trình duyệt mặc định, nhận OAuth callback qua loopback và tr
 Đăng ký redirect URI sau trong Partner App:
 
 ```text
-http://127.0.0.1/pgame-callback
+http://127.0.0.1/hktk-callback
 ```
 
 Nếu app bật App Sandbox, thêm entitlement `com.apple.security.network.server` để nhận callback loopback.
 
-Tài liệu API: [docs.hktk.vn/oauth/pgame-auth-api.html](https://docs.hktk.vn/oauth/pgame-auth-api.html)
+Tài liệu API: [docs.hktk.vn/oauth/hktk-auth-api.html](https://docs.hktk.vn/oauth/hktk-auth-api.html)
 
 ## C API
 
