@@ -1,6 +1,6 @@
 # HKTK OAuth SDK for macOS
 
-SDK OAuth native cho game macOS và Cocos, phát hành dưới dạng C/C++ universal library. Phiên bản hiện tại là `1.3.12`.
+SDK OAuth native cho game macOS và Cocos, phát hành dưới dạng C/C++ universal library. Phiên bản hiện tại là `1.3.13`.
 
 ## Yêu cầu
 

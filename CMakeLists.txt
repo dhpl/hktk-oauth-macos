@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21)
-project(HKTKOAuthMacOS VERSION 1.3.12 LANGUAGES C CXX)
+project(HKTKOAuthMacOS VERSION 1.3.13 LANGUAGES C CXX)
 
 if(NOT APPLE OR CMAKE_SYSTEM_NAME STREQUAL "iOS")
   message(FATAL_ERROR "HKTK OAuth macOS SDK only supports macOS")
